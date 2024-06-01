@@ -1,4 +1,4 @@
-https://github.com/AkiTrin/SAMP-DDOS
+https://github.com/ITSMECHAPO/DDOS-TOOL
 
 cd SAMP-DDOS
 
